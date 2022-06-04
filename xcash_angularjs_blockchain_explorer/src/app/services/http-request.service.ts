@@ -9,30 +9,30 @@ WALLET_DECIMAL_PLACES_AMOUNT = 1000000;
 UNENCRYPTED_PAYMENT_ID:string = "022100";
 ENCRYPTED_PAYMENT_ID:string = "020901";
 
-SERVER_HOSTNAME_AND_PORT_SEND_HEXADECIMAL_TRANSACTION:string = "https://explorer.x-cash.org/sendhexadecimaltransaction";
-SERVER_HOSTNAME_AND_PORT_GET_CURRENT_BLOCK_HEIGHT:string = "https://explorer.x-cash.org/getcurrentblockheight";
-SERVER_HOSTNAME_AND_PORT_GET_BLOCKCHAIN_DATA:string = "https://explorer.x-cash.org/getblockchaindata";
-SERVER_HOSTNAME_AND_PORT_GET_NODES_LIST:string = "https://explorer.x-cash.org/getnodeslist";
-SERVER_HOSTNAME_AND_PORT_GET_GENERATED_SUPPLY:string = "https://explorer.x-cash.org/getgeneratedsupply";
-SERVER_HOSTNAME_AND_PORT_GET_CIRCULATING_SUPPLY:string = "https://explorer.x-cash.org/getcirculatingsupply";
-SERVER_HOSTNAME_AND_PORT_GET_LAST_BLOCK_DATA:string = "https://explorer.x-cash.org/getlastblockdata";
-SERVER_HOSTNAME_AND_PORT_GET_BLOCK_DATA:string = "https://explorer.x-cash.org/getblockdata";
-SERVER_HOSTNAME_AND_PORT_GET_TX_POOL_DATA:string = "https://explorer.x-cash.org/gettransactionpooldata";
-SERVER_HOSTNAME_AND_PORT_GET_BLOCKCHAIN_DATA_SETTINGS:string = "https://explorer.x-cash.org/getblockchaindatasettings";
-SERVER_HOSTNAME_AND_PORT_GET_BLOCK_TRANSACTION_DATA:string = "https://explorer.x-cash.org/getblocktransactiondata";
-SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_DATA:string = "https://explorer.x-cash.org/gettransactiondata";
-SERVER_HOSTNAME_AND_PORT_VERIFY_RESERVE_PROOF:string = "https://explorer.x-cash.org/verifyreserveproofapi";
-SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_AIRDROP:string = "https://explorer.x-cash.org/verifypreminefundsairdrop";
-SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH:string = "https://explorer.x-cash.org/verifypreminefundsxcash";
-SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH_REWARDS:string = "https://explorer.x-cash.org/verifypreminefundsxcashrewards";
-SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH_INVESTORS:string = "https://explorer.x-cash.org/verifypreminefundsxcashinvestors";
-SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_CONFIRMATIONS:string = "https://explorer.x-cash.org/gettransactionconfirmations";
-SERVER_HOSTNAME_AND_PORT_CREATE_INTEGRATED_ADDRESS:string = "https://explorer.x-cash.org/createintegratedaddressapi";
-SERVER_HOSTNAME_AND_PORT_GET_LAST_BLOCKS_TRANSACTION_DATA:string = "https://explorer.x-cash.org/getlastblockstransactiondata";
-SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_DATA_SEARCH_RESULTS:string = "https://explorer.x-cash.org/gettransactiondatasearchresults";
-SERVER_HOSTNAME_AND_PORT_GET_CHART_DATA:string = "https://explorer.x-cash.org/getchartdata";
-SERVER_HOSTNAME_AND_PORT_GET_MARKET_DATA:string = "https://explorer.x-cash.org/getmarketdata";
-SERVER_HOSTNAME_AND_PORT_GET_HISTORICAL_MARKET_DATA:string = "https://explorer.x-cash.org/gethistoricalmarketdata";
+SERVER_HOSTNAME_AND_PORT_SEND_HEXADECIMAL_TRANSACTION:string = "https://explorer.xcash.foundation/sendhexadecimaltransaction";
+SERVER_HOSTNAME_AND_PORT_GET_CURRENT_BLOCK_HEIGHT:string = "https://explorer.xcash.foundation/getcurrentblockheight";
+SERVER_HOSTNAME_AND_PORT_GET_BLOCKCHAIN_DATA:string = "https://explorer.xcash.foundation/getblockchaindata";
+SERVER_HOSTNAME_AND_PORT_GET_NODES_LIST:string = "https://explorer.xcash.foundation/getnodeslist";
+SERVER_HOSTNAME_AND_PORT_GET_GENERATED_SUPPLY:string = "https://explorer.xcash.foundation/getgeneratedsupply";
+SERVER_HOSTNAME_AND_PORT_GET_CIRCULATING_SUPPLY:string = "https://explorer.xcash.foundation/getcirculatingsupply";
+SERVER_HOSTNAME_AND_PORT_GET_LAST_BLOCK_DATA:string = "https://explorer.xcash.foundation/getlastblockdata";
+SERVER_HOSTNAME_AND_PORT_GET_BLOCK_DATA:string = "https://explorer.xcash.foundation/getblockdata";
+SERVER_HOSTNAME_AND_PORT_GET_TX_POOL_DATA:string = "https://explorer.xcash.foundation/gettransactionpooldata";
+SERVER_HOSTNAME_AND_PORT_GET_BLOCKCHAIN_DATA_SETTINGS:string = "https://explorer.xcash.foundation/getblockchaindatasettings";
+SERVER_HOSTNAME_AND_PORT_GET_BLOCK_TRANSACTION_DATA:string = "https://explorer.xcash.foundation/getblocktransactiondata";
+SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_DATA:string = "https://explorer.xcash.foundation/gettransactiondata";
+SERVER_HOSTNAME_AND_PORT_VERIFY_RESERVE_PROOF:string = "https://explorer.xcash.foundation/verifyreserveproofapi";
+SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_AIRDROP:string = "https://explorer.xcash.foundation/verifypreminefundsairdrop";
+SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH:string = "https://explorer.xcash.foundation/verifypreminefundsxcash";
+SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH_REWARDS:string = "https://explorer.xcash.foundation/verifypreminefundsxcashrewards";
+SERVER_HOSTNAME_AND_PORT_VERIFY_PREMINE_FUNDS_XCASH_INVESTORS:string = "https://explorer.xcash.foundation/verifypreminefundsxcashinvestors";
+SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_CONFIRMATIONS:string = "https://explorer.xcash.foundation/gettransactionconfirmations";
+SERVER_HOSTNAME_AND_PORT_CREATE_INTEGRATED_ADDRESS:string = "https://explorer.xcash.foundation/createintegratedaddressapi";
+SERVER_HOSTNAME_AND_PORT_GET_LAST_BLOCKS_TRANSACTION_DATA:string = "https://explorer.xcash.foundation/getlastblockstransactiondata";
+SERVER_HOSTNAME_AND_PORT_GET_TRANSACTION_DATA_SEARCH_RESULTS:string = "https://explorer.xcash.foundation/gettransactiondatasearchresults";
+SERVER_HOSTNAME_AND_PORT_GET_CHART_DATA:string = "https://explorer.xcash.foundation/getchartdata";
+SERVER_HOSTNAME_AND_PORT_GET_MARKET_DATA:string = "https://explorer.xcash.foundation/getmarketdata";
+SERVER_HOSTNAME_AND_PORT_GET_HISTORICAL_MARKET_DATA:string = "https://explorer.xcash.foundation/gethistoricalmarketdata";
 
 /*SERVER_HOSTNAME_AND_PORT_SEND_HEXADECIMAL_TRANSACTION:string = "http://localhost:8000/sendhexadecimaltransaction";
 SERVER_HOSTNAME_AND_PORT_GET_CURRENT_BLOCK_HEIGHT:string = "http://localhost:8000/getcurrentblockheight";
@@ -106,12 +106,12 @@ return this.httpClient.post('url',item, {headers: headers});
 }
 
 get_payment_id(tx_extra:string)
-{    
+{
 return tx_extra.substr(0,6) === this.UNENCRYPTED_PAYMENT_ID ? tx_extra.substr(6,64) : tx_extra.substr(0,6) === this.ENCRYPTED_PAYMENT_ID ? tx_extra.substr(6,16) : "none";
 }
 
 get_payment_id_settings(tx_extra:string)
-{    
+{
 return tx_extra.substr(0,6) === this.UNENCRYPTED_PAYMENT_ID ? "unencrypted" : tx_extra.substr(0,6) === this.ENCRYPTED_PAYMENT_ID ? "encrypted" : "none";
 }
 
